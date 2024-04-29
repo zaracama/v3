@@ -1,4 +1,5 @@
 # myFirstPorto
+...
 <div align="center">
   <img src="./img/logotranspa-removebg-preview.png" width="150px" alt="Logo">
 </div>
