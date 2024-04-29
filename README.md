@@ -1,6 +1,6 @@
 # v3
 <div align="center">
-  <img src="./img/skills/gare.jpg" width="150px" alt="Logo">
+  <img src="./img/logotranspa-removebg-preview.png" width="150px" alt="Logo">
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
